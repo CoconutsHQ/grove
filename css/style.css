@@ -41,21 +41,52 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;}
 
+
+	
+
 body {
-background: white;
+background: #231D29;
 }
 
 ul {
 	color: #3399ff;
 }
-
-ul a {color:#3399ff;}
+a{
+	text-decoration: none;
+}
+ul a {
+	color:#3399ff;}
 
 ul div {
 	color:black;
 	opacity:0.3;
 }
 
+
+
+
+img {
+	padding: 50px;
+}
+
+section {
+	padding-bottom: 30px;
+	text-align: center;
+	border-radius: 10px;
+	margin: 5%;
+	position: absolute;
+	top: 50%; 
+	margin-top: -250px;
+	width:350px;
+	font: 500 16px/22px "Open Sans", sans-serif;
+
+
+background: white;
+}
+
+li {
+	padding: 20px;
+}
 
 
 
